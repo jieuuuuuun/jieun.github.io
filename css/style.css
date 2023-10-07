@@ -127,7 +127,7 @@ button:focus {
 .header__menu__item {
     display: block;
     padding: 8px 16px;
-    border: 1px solid transparent;
+    border-bottom: 1px solid transparent;
 }
 
 .header__menu__item:hover {
